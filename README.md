@@ -36,9 +36,6 @@ To set up the MediConnect project locally, follow the installation instructions 
 
 Ensure the backend API is running before starting the frontend applications, as they depend on the API for functionality.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file in each repository for details.
 
 ## Contact
 
